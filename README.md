@@ -8,3 +8,5 @@ This app demonstrates how to create a drag-and-drop list in a FileMaker Pro web 
 
 **NOTE**: This is a proof of concept, not a complete solution. Adjust the `sortableSQL` custom function and the webviewer HTML field as needed to support your use case. 
 
+## Requires v16 or Higher
+This app uses the JSONGetElement function, so v16 or newer is required. 
